@@ -8,7 +8,7 @@
 - 23.10.30 ~ 23.12.25 / 2인
 
 ## 사용 기술 
-- Spring Boot, JPA, MySQL, HTML5, CSS3, JavaScript, jQuery
+- Java 17, Spring Boot, JPA, MySQL, HTML5, CSS3, JavaScript, jQuery
 
 ## 핵심 기능 
 - 원데이 클래스 예약, 등록, 검색 기능
